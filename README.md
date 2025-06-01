@@ -51,8 +51,8 @@ Bu proje, hobi amaçlı geliştirilmiştir ve sürekli güncellenmektedir. Eksik
 ### Adım Adım Kurulum
 1. **Depoyu Klonlayın:**
    ```bash
-   git clone https://github.com/abdullahkitr0/ingilizce-kelime-uygulamasi.git
-   cd ingilizce-kelime-uygulamasi
+   git clone https://github.com/abdullahkitr0/English-learn.git
+   cd English-learn
    ```
 2. **Veritabanı Ayarları:**
    - `nowdatabase.sql` dosyasını phpMyAdmin veya terminal ile içe aktarın. (Yaklaşık 1800 Kelime Vardır , Kelime İstemiyorsanız `databese.sql` dosyasını import edebilirsiniz.)
@@ -67,10 +67,10 @@ Bu proje, hobi amaçlı geliştirilmiştir ve sürekli güncellenmektedir. Eksik
 
 ## Veritabanı
 
-Veritabanı dosyasını indirmek için [buraya](https://github.com/abdullahkitr0/ingilizce-kelime-uygulamasi/blob/main/nowdatabase.sql) tıklayın.
+Veritabanı dosyasını indirmek için [buraya](https://github.com/abdullahkitr0/English-learn/blob/main/nowdatabase.sql) tıklayın.
 
 ## Kullanım
-- Uygulamayı başlatın ve tarayıcınızda `http://localhost/ingilizce-kelime-uygulamasi` adresine gidin.
+- Uygulamayı başlatın ve tarayıcınızda `http://localhost/English-learn` adresine gidin.
 - Kullanıcı kaydı oluşturun veya giriş yapın.
 - Kelime kartlarıyla çalışın, test çözün, başarılar kazanın.
 
