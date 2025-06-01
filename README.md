@@ -3,7 +3,7 @@
 Bu proje, kullanıcıların İngilizce kelime öğrenebileceği, test çözebileceği, kelime kartlarıyla çalışabileceği ve başarılar kazanabileceği bir web uygulamasıdır. Kullanıcılar, kelime kartları ve testler ile öğrenme sürecini eğlenceli ve verimli hale getirebilir.
 
 
-- **Demo:** [Demo][https://abdullahki.com](https://english.abdullahki.com/)
+- **Demo:** [Demo][https://english.abdullahki.com/]
 -  Yönetici : admin@admin.com  : admin123
 
 ## İçindekiler
